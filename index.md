@@ -14,11 +14,3 @@ tagline: 电车仿真 Modelica
   {% endfor %}
 </ul>
 
-<<<<<<< HEAD
-=======
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
-
-
->>>>>>> dae66a174e696f81757bb77ba9193677d0afb832
