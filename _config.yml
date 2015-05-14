@@ -28,7 +28,6 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://xie-dongping.github.io
-BASE_PATH : http://xie-dongping.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
